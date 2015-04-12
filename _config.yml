@@ -1,0 +1,20 @@
+# Site settings
+title: Paul Buser
+email: pbuser@oberlin.edu
+description: >
+  I'm a programmer, game designer, and educator.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://buser.website" # the base hostname & protocol for your site
+
+# My settings
+imagepath: images
+
+# Build settings
+markdown: kramdown
+kramdown:
+    input: GFM
+encoding: utf-8
+
+#Github specific settings
+safe: true
+lsi: false

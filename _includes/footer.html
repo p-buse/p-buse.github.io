@@ -1,0 +1,13 @@
+<footer>
+  <div class="social">
+    <ul>
+      {% for social in site.data.social %}
+        <li>
+          <a href="{{ social.url }}">
+            <img src="{{ social.img }}">
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</footer>

@@ -1,0 +1,16 @@
+{% assign pages = site.pages | sort: "nav" %}
+<header>
+  <nav>
+  <p class="site-title text-uppercase"><a href="{{ site.url }}"><small>{{ site.url | remove_first:"http://" }}</small></a></p>
+    <ul class="nav nav-tabs">
+      {% for node in pages %}
+        {% if node.title and node.nav %}
+        <li role="presentation" {% if page.title == node.title %}class="active"{% endif %}>
+          <a href="{{ node.url }}">{{ node.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </nav>
+</header>
