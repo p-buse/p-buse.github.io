@@ -37,17 +37,12 @@ These doll houses are excruciatingly detailed, and include written descriptions 
 ![Dollhouse Written Description]({{site.imagepath}}/dollhouse-3.JPG)
 
 Outside, a man carved sculptures with a chainsaw.
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" id="ytplayer" type="text/html" src="http://www.youtube.com/embed/WDgJIObaxJ4" frameborder="0"></iframe>
-</div>
+[![Chainsaw Art](http://img.youtube.com/vi/WDgJIObaxJ4/0.jpg)](http://www.youtube.com/watch?v=WDgJIObaxJ4)
+
 
 The William C. Knapp Varied Industries Building was like an enormous SkyMall retail demonstration. Vendors wearing headset microphones pitched their products to live audiences. A crowd gathered around three blindfolded, headphone-wearing people receiving machine-automated Aqua Massages. An automatic sewing machine created an intricate design on a piece of fabric. I asked the ladies working the booth for the price; they told me these machines cost upwards of $2,200, but the one on display was $10,000.
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" id="ytplayer" type="text/html" src="http://www.youtube.com/embed/BP29770TBcQ" frameborder="0"></iframe>
-</div>
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" id="ytplayer" type="text/html" src="http://www.youtube.com/embed/DrEwBAV7UNA" frameborder="0"></iframe>
-</div>
+[![WCKVIB Show Floor](http://img.youtube.com/vi/BP29770TBcQ/0.jpg)](http://www.youtube.com/watch?v=BP29770TBcQ)
+[![Automated Sewing Machine](http://img.youtube.com/vi/DrEwBAV7UNA/0.jpg)](http://www.youtube.com/watch?v=DrEwBAV7UNA)
 
 In the building's lobby, a sculpture celebrating Iowa agriculture featured two sheep, one of which had a disturbingly human grin. Dan imitated it.
 ![Sheep and Dan]({{site.imagepath}}/dan-sheep.JPG)
