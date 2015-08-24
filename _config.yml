@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://buser.website" # the base hostname & protocol for your site
 
 # My settings
-imagepath: images
+imagepath: /images/blog
 
 # Build settings
 markdown: kramdown

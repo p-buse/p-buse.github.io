@@ -1,8 +1,10 @@
 ---
 ---
+
+$spacing: 2em;
 // Give our navbar some breathing room
 nav {
-    margin-bottom: 2em;
+    margin-bottom: $spacing;
     .site-title {
         // Move our site title over to the right in the navbar
         float: right;
@@ -16,7 +18,7 @@ nav {
         margin: 0 auto;
     }
     // Give it some breathing room
-    margin-bottom: 2em;
+    margin-bottom: $spacing;
 }
 
 // Fancy jumbotron with a pic of me
@@ -53,4 +55,16 @@ nav {
         float:right;
     }
     border-style: solid 3px;
+}
+
+// Images should be big, but not stretch the page
+img {
+    max-width: 70%;
+    margin-top: $spacing;
+    margin-bottom: $spacing;
+}
+
+.embed-responsive {
+    margin-top: $spacing;
+    margin-bottom: $spacing;
 }

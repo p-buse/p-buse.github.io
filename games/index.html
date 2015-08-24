@@ -4,10 +4,9 @@ title: Games
 nav: 2
 permalink: /games/
 ---
-{% assign pages_sortby_date = site.pages | sort: "date" | reverse %}
+{% assign games_sortby_date = site.pages | where:"layout","game" | sort: "date" | reverse %}
 <ul class="media-list game-list">
-{% for game in pages_sortby_date %}
-{% if game.layout == "game" %}
+{% for game in games_sortby_date %}
   <li class="media game-list">
     <div class="media-left">
       <a href="{{ game.url }}">
@@ -15,8 +14,8 @@ permalink: /games/
       </a>
     </div>
     <div class="media-body">
-      <a class="btn btn-success btn-sm " href="{{ game.url }}" role="button">Play Now!</a>
-      <!-- <a class="btn btn-primary btn-sm" href="{{ game.video }}" role="button">Watch Video</a> --!>
+      <a class="btn btn-success btn-sm" href="{{ game.url }}" role="button">Play Now!</a>
+      <!-- <a class="btn btn-primary btn-sm" href="{{ game.video }}" role="button">Watch Video</a> -->
       <a href="{{ game.url }}">
         <h4 class="media-heading">{{ game.title }}</h4>
       </a>
@@ -24,6 +23,5 @@ permalink: /games/
       {{ game.description }}
     </div>
   </li>
-  {% endif %}
 {% endfor %}
 </ul>
