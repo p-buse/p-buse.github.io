@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grand Canyon: One Big Canyon
+title: "Grand Canyon: One Big Canyon"
 description: More than just a hole in the ground!
 ---
 
