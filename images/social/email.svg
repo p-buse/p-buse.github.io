@@ -2,22 +2,17 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="730.031px" height="628.191px" viewBox="0 0 730.031 628.191" enable-background="new 0 0 730.031 628.191"
-	 xml:space="preserve">
-<g id="Layer_2">
-	<rect stroke="#FFFFFF" width="730.031" height="628.191"/>
-</g>
+	 width="75px" height="75px" viewBox="0 0 75 75" enable-background="new 0 0 75 75" xml:space="preserve">
+<rect fill="#010101" stroke="#FFFFFF" width="75" height="75"/>
 <g id="g8564">
 	<g id="g1406">
-		<path id="path1408" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linejoin="round" d="M623.902,475.49V148.013H107.397
-			V475.49H623.902z"/>
-		<path id="path1410" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linejoin="round" d="M365.643,311.757"/>
-		<path id="path1414" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linejoin="round" d="M113.526,469.067l177.05-154.708"
-			/>
-		<path id="path1416" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linejoin="round" d="M615.814,467.326L443.375,316.439
-			"/>
+		<path id="path1408" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" d="M64.032,54.322V20.679H10.969
+			v33.644H64.032z"/>
+		<path id="path1410" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" d="M37.5,37.501"/>
+		<path id="path1414" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" d="M11.599,53.662l18.189-15.894"/>
+		<path id="path1416" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" d="M63.201,53.482l-17.716-15.5"/>
 	</g>
 </g>
-<path id="path1412" fill="none" stroke="#FFFFFF" stroke-width="20" d="M113.463,152.183l222.823,194.509
-	c16.516,14.337,46.567,14.167,62.734,0.132L621.69,153.75"/>
+<path id="path1412" fill="none" stroke="#FFFFFF" stroke-width="2" d="M11.592,21.107L34.484,41.09
+	c1.696,1.473,4.783,1.455,6.444,0.014l22.876-19.835"/>
 </svg>

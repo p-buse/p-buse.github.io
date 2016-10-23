@@ -1,6 +1,6 @@
 # Site settings
 title: Paul Buser
-email: pbuser@oberlin.edu
+email: pbuser@cs.oberlin.edu
 description: >
   I'm a programmer and game designer.
 baseurl: "" # the subpath of your site, e.g. /blog/

@@ -8,5 +8,8 @@
   url: https://twitter.com/pcbuser
   img: /images/social/twitter.svg
 - title: Internet Mail
-  url: mailto:pbuser@oberlin.edu
-  img: /images/social/blah.svg
+  url: mailto:pbuser@cs.oberlin.edu
+  img: /images/social/email.svg
+- title: Resume
+  url: /misc/Fall_2016.pdf
+  img: /images/social/paper.svg
