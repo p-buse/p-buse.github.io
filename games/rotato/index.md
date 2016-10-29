@@ -6,7 +6,10 @@ permalink: /games/rotato/
 description: You are a potato with psychic powers.
 image: /images/screenshots/rotato_128.png
 video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-unity_file: rotato.unity3d
+basename: rotato
+game_memory: 268435456
+canvas_width: 960px
+canvas_height: 600px
 controls: >
     <p><kbd>←</kbd> <kbd>→</kbd> or <kbd>A</kbd> <kbd>D</kbd> - Move/Rotate</p>
     <p><kbd>↑</kbd> or <kbd>W</kbd> - Jump</p>
