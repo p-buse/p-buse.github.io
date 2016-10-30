@@ -6,7 +6,10 @@ permalink: /games/break/
 description: Time-looping rectangle platformer!
 image: /images/screenshots/break_128.png
 video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-unity_file: break.unity3d
+basename: break
+game_memory: 268435456
+canvas_width: 960px
+canvas_height: 600px
 controls: >
     <p><kbd>←</kbd> <kbd>→</kbd> or <kbd>A</kbd> <kbd>D</kbd> - Move</p>
     <p><kbd>↑</kbd> or <kbd>W</kbd> - Jump</p>
